@@ -16,6 +16,12 @@
       ],
       "@libs/common/*": [
         "libs/common/src/*"
+      ],
+      "@libs/mongo": [
+        "libs/mongo/src"
+      ],
+      "@libs/mongo/*": [
+        "libs/mongo/src/*"
       ]
     }
   },
